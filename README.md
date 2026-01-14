@@ -54,7 +54,7 @@ Admittedly, this is uglier than the earlier syntax on top - but that's how Pando
 | `theme`     | default       | `MERMAID_FILTER_THEME`  |Corresponds to `--theme`  flag of mermaid.cli|
 |`background` | `white`       | `MERMAID_FILTER_BACKGROUND` |Correponds to `--backgroundColor` flag of mermaid.cli|
 | `filename`  | NA            | `MERMAID_FILTER_FILENAME`| Takes precedence |
-| `loc`| `inline` | `MERMAID_FILTER_LOC`| inline - generates a data url; `imgur` - uploads to imgur; `loc=anythingelse` saves images to folder `anythingelse`
+| `loc`| `inline` | `MERMAID_FILTER_LOC`| inline - generates a data url; `loc=anythingelse` saves images to folder `anythingelse`
 | `scale` | 1|`MERMAID_FILTER_SCALE`| |
 | `imageclass` ||`MERMAID_FILTER_IMAGECLASS`| |
 
